@@ -12,6 +12,7 @@ CTFs that I've participated in:
 - VI Russian CTF Cup (25th out of 300)
 
 Datasets I've made:
+- [Habr QnA](https://huggingface.co/datasets/its5Q/habr_qna)
 - [Yandex Q](https://github.com/its5Q/yandex-q)
 - [otvet.mail.ru](https://www.kaggle.com/datasets/atleast6characterss/otvetmailru-full)
 - [Panorama (Russian "The Onion")](https://huggingface.co/datasets/its5Q/panorama)
