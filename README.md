@@ -10,6 +10,7 @@ CTFs that I've participated in:
 - PHDays 11 Blockchain Hunter (1st)
 - CyberOK Web3 CTF (1st)
 - VI Russian CTF Cup (25th out of 300)
+- OmWars Quals 2023 (10th world)
 
 Datasets I've made:
 - [Habr QnA](https://huggingface.co/datasets/its5Q/habr_qna)
