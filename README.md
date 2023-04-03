@@ -2,8 +2,6 @@
 I love everything about technology, particularly interested in machine learning and blockchain technology. I also work with Big Data, and play some CTFs too.  
 You can contact me in [Telegram](https://t.me/dno5iq)  
 
-♾️[Happy Autism Awareness Day!](https://autisticadvocacy.org/about-asan/about-autism/)
-
 CTFs that I've participated in:
 - FarEastCTF 2020 (1st)
 - FarEastCTF 2021 (1st)
@@ -20,3 +18,5 @@ Datasets I've made:
 - [Yandex Q](https://github.com/its5Q/yandex-q)
 - [otvet.mail.ru](https://www.kaggle.com/datasets/atleast6characterss/otvetmailru-full)
 - [Panorama (Russian "The Onion")](https://huggingface.co/datasets/its5Q/panorama)
+
+♾️[Happy Autism Acceptance Month!](https://autisticadvocacy.org/about-asan/about-autism/)
