@@ -19,5 +19,3 @@ Datasets I've made:
 - [otvet.mail.ru](https://www.kaggle.com/datasets/atleast6characterss/otvetmailru-full)
 - [Panorama (Russian "The Onion")](https://huggingface.co/datasets/its5Q/panorama)
 
----
-♾️[Happy Autism Acceptance Month!](https://autisticadvocacy.org/about-asan/about-autism/)
