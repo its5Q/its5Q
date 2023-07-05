@@ -12,6 +12,7 @@ CTFs that I've participated in:
 - VI Russian CTF Cup (25th out of 300)
 - OmWars Quals 2023 (10th world)
 - RDG CTF 2023 (3rd) (solo, no reg)
+- PHDays 12 ETHical hacking (1st)
 
 Datasets I've made:
 - [Habr QnA](https://huggingface.co/datasets/its5Q/habr_qna)
