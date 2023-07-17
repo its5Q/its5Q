@@ -13,10 +13,12 @@ CTFs that I've participated in:
 - OmWars Quals 2023 (10th world)
 - RDG CTF 2023 (3rd) (solo, no reg)
 - PHDays 12 ETHical hacking (1st)
+- IT's Tinkoff CTF (2nd)
 
 Datasets I've made:
 - [Habr QnA](https://huggingface.co/datasets/its5Q/habr_qna)
 - [Yandex Q](https://github.com/its5Q/yandex-q)
 - [otvet.mail.ru](https://www.kaggle.com/datasets/atleast6characterss/otvetmailru-full)
 - [Panorama (Russian "The Onion")](https://huggingface.co/datasets/its5Q/panorama)
+- [resh.edu.ru](https://huggingface.co/datasets/its5Q/resh-edu)
 
