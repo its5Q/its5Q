@@ -13,7 +13,8 @@ CTFs that I've participated in:
 - OmWars Quals 2023 (10th world)
 - RDG CTF 2023 (3rd) (solo, no reg)
 - PHDays 12 ETHical hacking (1st)
-- IT's Tinkoff CTF (2nd)
+- IT's Tinkoff CTF (2nd) (disqualified, RIP)
+- SpaceCTF by PT and RuVDS (1st)
 
 Datasets I've made:
 - [Habr QnA](https://huggingface.co/datasets/its5Q/habr_qna)
