@@ -1,8 +1,13 @@
 ## Hi!
-I love everything about technology, particularly interested in machine learning and blockchain technology. I also work with Big Data, and play some CTFs too.  
-You can contact me in [Telegram](https://t.me/dno5iq)  
+I'm 5Q, programming by day, hacking by night, and very passionate about collecting as much data as I can. Dreaming of working in the field of digital forensics in the near future!
 
-CTFs that I've participated in:
+
+You can contact me on [Telegram](https://t.me/dno5iq)  
+
+<details>
+<summary><h3>CTFs that I've participated in</h3></summary>
+<br>
+
 - FarEastCTF 2020 (1st)
 - FarEastCTF 2021 (1st)
 - PolygonCTF 2022 (2nd)
@@ -15,11 +20,17 @@ CTFs that I've participated in:
 - PHDays 12 ETHical hacking (1st)
 - IT's Tinkoff CTF (2nd) (disqualified, RIP)
 - SpaceCTF by PT and RuVDS (1st)
+- BelkaCTF 6 (1st, yippee)
 
-Datasets I've made:
+</details>
+<details>
+<summary><h3>Datasets I've collected</h3></summary>
+<br>
+
 - [Habr QnA](https://huggingface.co/datasets/its5Q/habr_qna)
 - [Yandex Q](https://github.com/its5Q/yandex-q)
 - [otvet.mail.ru](https://www.kaggle.com/datasets/atleast6characterss/otvetmailru-full)
 - [Panorama (Russian "The Onion")](https://huggingface.co/datasets/its5Q/panorama)
 - [resh.edu.ru](https://huggingface.co/datasets/its5Q/resh-edu)
 
+</details>
