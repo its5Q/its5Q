@@ -20,7 +20,7 @@ You can contact me on [Telegram](https://t.me/dno5iq)
 - PHDays 12 ETHical hacking (1st)
 - IT's Tinkoff CTF (2nd) (disqualified, RIP)
 - SpaceCTF by PT and RuVDS (1st)
-- BelkaCTF 6 (1st, yippee)
+- BelkaCTF 6 (1st, yippee) ([writeup](https://github.com/its5Q/writeups/blob/master/BelkaCTF%206/BelkaCTF%206%20Writeup.md))
 
 </details>
 <details>
