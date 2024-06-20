@@ -1,5 +1,5 @@
 ## Hi!
-I'm 5Q, programming by day, hacking by night, and very passionate about collecting as much data as I can. Dreaming of working in the field of digital forensics in the near future!
+I'm 5Q, programming by day, hacking by night, and very passionate about collecting as much data as I can. Aspiring to get in the field of digital forensics.
 
 
 You can contact me on [Telegram](https://t.me/dno5iq)  
@@ -20,7 +20,10 @@ You can contact me on [Telegram](https://t.me/dno5iq)
 - PHDays 12 ETHical hacking (1st)
 - IT's Tinkoff CTF (2nd) (disqualified, RIP)
 - SpaceCTF by PT and RuVDS (1st)
+- Cybercoliseum II (3rd)
 - BelkaCTF 6 (1st, yippee) ([writeup](https://github.com/its5Q/writeups/blob/master/BelkaCTF%206/BelkaCTF%206%20Writeup.md))
+- Tinkoff CTF 2024 (3rd)
+
 
 </details>
 <details>
