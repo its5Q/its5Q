@@ -23,6 +23,10 @@ You can contact me on [Telegram](https://t.me/dno5iq)
 - Cybercoliseum II (3rd)
 - BelkaCTF 6 (1st, yippee) ([writeup](https://github.com/its5Q/writeups/blob/master/BelkaCTF%206/BelkaCTF%206%20Writeup.md))
 - Tinkoff CTF 2024 (3rd)
+- AI CTF 2024 (1st)
+- PHDays 2024 Web3 CTF (1st)
+
+
 
 
 </details>
